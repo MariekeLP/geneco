@@ -5,6 +5,6 @@
 
 ## Chapitre 1: les basiques
 
-dans ce chapitre seront présentés les commandes principales de "git"
+dans ce [chapitre](/chapter1.md) seront présentés les commandes principales de "git"
 ## chapitre2 
 test git
